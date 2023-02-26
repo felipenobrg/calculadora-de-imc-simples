@@ -1,2 +1,2 @@
 # Calculadora-de-IMC-Simples
-Uma simples calculadora de IMC. Feita usando JavaScript, CSS, HTML.
+Calculator of IMC (BMI), made by JavaScript, CSS and HTML.
